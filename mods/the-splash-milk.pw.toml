@@ -1,0 +1,13 @@
+name = "The Splash Milk"
+filename = "TheSplashMilk-fabric-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ELrdP6OH/versions/L4j2vyfO/TheSplashMilk-fabric-3.0.1.jar"
+hash-format = "sha512"
+hash = "147b99697ce17f3f6844cc4ea891446c3450a66dc0072a81307d4bd53f1f1cc18e845d4896f890b7488b1e038bad8f1dd9cc32884c5febb14190c68dbb8fe85c"
+
+[update]
+[update.modrinth]
+mod-id = "ELrdP6OH"
+version = "L4j2vyfO"

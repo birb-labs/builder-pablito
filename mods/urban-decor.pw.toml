@@ -1,0 +1,13 @@
+name = "Urban Decor"
+filename = "fabric-urban_decor-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bLZdx1u/versions/cA3YI6tY/fabric-urban_decor-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "ee56435a142d5678447375b2811d61a0f2f211b344356c3d5a644fb8fd1259ded0d2205898ad6fcc190ca72fcf185961c6637f18340e0278e06110c3b08cb367"
+
+[update]
+[update.modrinth]
+mod-id = "1bLZdx1u"
+version = "cA3YI6tY"

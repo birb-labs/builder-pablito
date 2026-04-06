@@ -1,0 +1,13 @@
+name = "Builder Pablito"
+author = "P4tit0"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7db4c1ad443ca76accf02a9a354344ebd6b8a83c7659933bc8be7efef6050862"
+
+[versions]
+fabric = "0.18.6"
+minecraft = "1.21.1"

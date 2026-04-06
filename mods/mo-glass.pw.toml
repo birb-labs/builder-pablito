@@ -1,0 +1,13 @@
+name = "Mo Glass"
+filename = "Mo-Glass-1.12-MC1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SI5mk2b6/versions/YOE8Gkm9/Mo-Glass-1.12-MC1.21.1.jar"
+hash-format = "sha512"
+hash = "758526346991d6e163dfbbd2475678af98bd5b886e218c32c770b1103b21ab7f6a8084bd3f491e520beba5ca4d125a0d565daf04015e7dd89f731a0eb8f741db"
+
+[update]
+[update.modrinth]
+mod-id = "SI5mk2b6"
+version = "YOE8Gkm9"

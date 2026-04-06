@@ -1,0 +1,13 @@
+name = "Decocraft"
+filename = "decocraft-3.0.8-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IZJSgKZe/versions/FX2ESgDi/decocraft-3.0.8-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "65ae01d5d40c97d8264622ee76718b6f3744563e9018ad169e730be0a8e736beeef295cfb43ba16716703037c93661f988ca4f619e16ea8df56794d9eb8a7ee0"
+
+[update]
+[update.modrinth]
+mod-id = "IZJSgKZe"
+version = "FX2ESgDi"

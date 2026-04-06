@@ -1,0 +1,13 @@
+name = "Underlay"
+filename = "underlay-1.0.1-fabric-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iltKD9qU/versions/qDyybRVf/underlay-1.0.1-fabric-mc1.21.jar"
+hash-format = "sha512"
+hash = "1ec87277b01433c53fa9781c32ab3b7f5e8a967057e27514a51c2e1402314da97a7952bd2f253ef8243af4deee6ae4f915386c17d9ec9c2f7c4d2531d5720882"
+
+[update]
+[update.modrinth]
+mod-id = "iltKD9qU"
+version = "qDyybRVf"

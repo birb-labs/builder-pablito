@@ -1,0 +1,13 @@
+name = "Player Armor Stands"
+filename = "pas-0.8.2-FBR-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PxcK9msP/versions/Vf3vZnst/pas-0.8.2-FBR-1.21.1.jar"
+hash-format = "sha512"
+hash = "fbe7cc0aa3dee1032d624f0fb87b3bc168080a5a1bc5c31c8970f45068e112f614f8af57545f27a1ca4896d4a4880b28643802e8b92daa32ec516992888f483f"
+
+[update]
+[update.modrinth]
+mod-id = "PxcK9msP"
+version = "Vf3vZnst"

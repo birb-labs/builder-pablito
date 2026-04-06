@@ -1,0 +1,13 @@
+name = "UnChipped"
+filename = "unchipped-1.21-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RS1svSgj/versions/fMCV0NES/unchipped-1.21-1.2.jar"
+hash-format = "sha512"
+hash = "17094030b5b63c2db275210a813d09234e3ccf9de98c8be1bbbf6710acb34f6404dbae2ba46d98ba322d8d09407b92155c499f96b457f690b22470a4635f8892"
+
+[update]
+[update.modrinth]
+mod-id = "RS1svSgj"
+version = "fMCV0NES"

@@ -1,0 +1,13 @@
+name = "Kaleidoscope Tavern Refabricated"
+filename = "kaleidoscope_tavern-1.0.1c-fabric+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UMblNdlF/versions/aGdpsGyv/kaleidoscope_tavern-1.0.1c-fabric%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "3b7daa2dc4c8357120ffee47906a3316fa5904dcdc634397e32ae65cd7f54a05a9b1fdede5e620cee4438814613c0e350324705ab7f29863705d3a56b1405867"
+
+[update]
+[update.modrinth]
+mod-id = "UMblNdlF"
+version = "aGdpsGyv"

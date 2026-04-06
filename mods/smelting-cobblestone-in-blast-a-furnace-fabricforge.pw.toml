@@ -1,0 +1,13 @@
+name = "Smelt All Stone Blocks in Blast Furnaces"
+filename = "blastingstone-1.21.1-fabric-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/szwvGLF7/versions/9bahJxRu/blastingstone-1.21.1-fabric-2.jar"
+hash-format = "sha512"
+hash = "f3407be6e49a47406ed363f1fc2cc3fcbe28d155635925b8f87a56e22ace3165d7e72e9dc5480a07f0a5eea818622ff4f5cb7ce69c87f052424a56f36bdd2bcc"
+
+[update]
+[update.modrinth]
+mod-id = "szwvGLF7"
+version = "9bahJxRu"

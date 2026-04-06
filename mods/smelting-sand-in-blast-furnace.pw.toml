@@ -1,0 +1,13 @@
+name = "Smelting Sand in Blast Furnace"
+filename = "blastingsand-fabric-1.21.1-12.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/GhemPlCv/versions/C5Ko11Do/blastingsand-fabric-1.21.1-12.3.jar"
+hash-format = "sha512"
+hash = "53dac601109aa64a9b719900eec85c2abdab151bd5127fc9de4db0abfd612508be81537993f3f96bd5ca8e49ec1cc32be967e2679cce8202c07f76b6e717d0f7"
+
+[update]
+[update.modrinth]
+mod-id = "GhemPlCv"
+version = "C5Ko11Do"

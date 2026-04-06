@@ -1,0 +1,13 @@
+name = "Decorative Storage"
+filename = "deco_storage-2.0311-beta-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DLpaTTzJ/versions/i6ripYZ8/deco_storage-2.0311-beta-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "a65fd45535aaf388fdeaf61ef5aca35d57c3609967ae5b09a66da076b939c0edc2675f734e9cb67155334cc77c2575bbf520b37675c04b1fa8c5a0d036c1690e"
+
+[update]
+[update.modrinth]
+mod-id = "DLpaTTzJ"
+version = "i6ripYZ8"

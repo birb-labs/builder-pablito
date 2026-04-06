@@ -1,0 +1,13 @@
+name = "Better World Loading"
+filename = "BetterWorldLoading-1.1-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bmOyRapU/versions/dnskBbOE/BetterWorldLoading-1.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "8340a0e02371ad1830bf329d17ff1a4cb117e6f6fb514f90d0f9ee7a06065d14c33c776375a69c0af717acec7fe84a752804e66e4dd789a8f1eb7e9f55eab05b"
+
+[update]
+[update.modrinth]
+mod-id = "bmOyRapU"
+version = "dnskBbOE"

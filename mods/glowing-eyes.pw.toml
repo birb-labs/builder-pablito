@@ -1,0 +1,13 @@
+name = "Glowing Eyes"
+filename = "glowingeyes-fabric-1.21.1-2.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9i2aYUyi/versions/2lWnBTCW/glowingeyes-fabric-1.21.1-2.1.3.jar"
+hash-format = "sha512"
+hash = "35b7a6a79c4d453bf3a2a288c56ef0f73ae9489d7b180a844bf01bd82846856e5fc219937469f394bb750e8f6a0c207c61f9a4cb7a9f3cdcd211e6add8f76a12"
+
+[update]
+[update.modrinth]
+mod-id = "9i2aYUyi"
+version = "2lWnBTCW"

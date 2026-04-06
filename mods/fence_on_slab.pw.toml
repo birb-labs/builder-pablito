@@ -1,0 +1,13 @@
+name = "Fence On Slab!"
+filename = "fence_on_slab-fabric-1.21-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H2ftVWLF/versions/r5H5HuOG/fence_on_slab-fabric-1.21-1.0.0.jar"
+hash-format = "sha512"
+hash = "05a3871358c9e5a2d766d49cb3e1896c056cb21bc745e372c0e0eaf47813b34b80a173b01ff84a12032f123e8fc8d3b4bb35c988cfb4f91797d12b12fca68efb"
+
+[update]
+[update.modrinth]
+mod-id = "H2ftVWLF"
+version = "r5H5HuOG"

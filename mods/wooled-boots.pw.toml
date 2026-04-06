@@ -1,0 +1,13 @@
+name = "Wooled Boots"
+filename = "wooledboots-1.8.1-fabric-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YJfbVVdW/versions/BAW5vizs/wooledboots-1.8.1-fabric-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "b114786e021b9742ef2d9436a994b4ba2bac4033393d23a688bc2d830c5bde7e93d0fb7ffe57a405c9142dbad17879178311a8e822da083f4f9bbf078a982bb3"
+
+[update]
+[update.modrinth]
+mod-id = "YJfbVVdW"
+version = "BAW5vizs"

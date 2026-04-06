@@ -1,0 +1,13 @@
+name = "vista"
+filename = "vista-1.21-3.0.8-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zuARv1N7/versions/UlC7ISF2/vista-1.21-3.0.8-fabric.jar"
+hash-format = "sha512"
+hash = "84f2a43f527f946ae4946619557c39195dba80802bfb96aab37afa49847f430f637c66426a087e3c359dd5d2c1266e5a8e1d527adb696619b37a16f679f2d700"
+
+[update]
+[update.modrinth]
+mod-id = "zuARv1N7"
+version = "UlC7ISF2"
