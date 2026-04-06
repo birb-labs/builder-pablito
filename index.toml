@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "01174ec973f9c2267f4d6ae6040941a3e764af58f9fa0b0a9f2914ce5630d728"
+hash = "6dd8f56698f5d3a7b93ed623dcef68a5df3b59be988d7ba92cc7050c3f6674e6"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "f6e7c4ce9387487dd7214bfe5fc1c210500a67442cd1ef06183637efe82adc6c"
+hash = "b70bce81da695818a36bf080a6675c44ceeff80b000ab7fb48a4614ab0b976b2"
 metafile = true
 
 [[files]]
@@ -137,17 +137,17 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "7d0c3e68465db061d57e3d2605eeececaa061d6b18dabd6968fcd7fa2ceb7bce"
+hash = "2de04f29f2408c65c374c05a443448ce78e8e1303564c49ebdc837406435cb31"
 metafile = true
 
 [[files]]
 file = "mods/blasting-clay-and-clay-balls.pw.toml"
-hash = "41a9e7631b6f0de0ad5cd14746cdea8cf1fbae66e8fc2a3f567bbc3dcff15b3e"
+hash = "6ae720f3af8bf8b8367be8a1ad5fd2fe3aaff0ff8fd47156e9782b23827443df"
 metafile = true
 
 [[files]]
 file = "mods/blasting-netherrack-into-nether-bricks.pw.toml"
-hash = "4999829ec516dd61134b0bb6dc6a1d724c189efd38d03b82aec60c56fe80feb4"
+hash = "20663f9d4f6792f28828849b9e9ebb8395759ef4361e2a3503e60efb8f77c3d8"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/blasting-raw-metal-blocks-into-blocks.pw.toml"
-hash = "f6079dc5d7fc8822a40854b873eb85a8fec5d3f7760074ecce921d645e8c9e64"
+hash = "51624006025b47f0e65a829117af837070cfb14a36808b457513d2477696ef2e"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/boids.pw.toml"
-hash = "2ff901532ccc1ec40e3f85b3bcab754d4f05d61117d32ebe6f9ae0e61f9db6a1"
+hash = "9b07bc06ce55890d2b538d6fdf12523e609051fdb732fb0085e27a7c02c725c1"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "6d54a46692045cfc01f46f0112c658e8ca431bce160493f9669afbe9c1cbf007"
+hash = "ea3e3efd42c185191a1970143e71c918efc5da853df6ba1f1cc916309ed60bba"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/filament.pw.toml"
-hash = "3f806ed2f67b77a358559684d64c110034c9d0ea523656640fef05c17ff63979"
+hash = "496ca2856510c842dd67672852742918c4c9f16dd3824e70fb3bf1eb2ea813e5"
 metafile = true
 
 [[files]]
@@ -712,12 +712,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a96cf5e816b8180b2a41286f36a9d38d78065238916ed385a5b8069bec2c5353"
+hash = "a3fb49622e08986eb361a0dee1a7a4f696c0c4ee4c38a7f712b69a54b202d5b6"
 metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "46e175b662617498d6f250e57f3f66b1b39a40252933b3466e1ff6a7f6209725"
+hash = "385a793f22a9378a9fc22570c5847aee1f310579b8c8d20f6cb65476972ef19a"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
+hash = "c8cc0cca864d1f698cc86c0c853f779a789dd7ecf46cf9f5f75f9bdb52856452"
 metafile = true
 
 [[files]]
@@ -752,12 +752,12 @@ metafile = true
 
 [[files]]
 file = "mods/mmv-moogs-missing-villages.pw.toml"
-hash = "d62031d06050a4f271149c72b484a6fab05afc17845bdd044018c764ce243055"
+hash = "f9ea565f4e020ae7259106b55bfd8c93ef2f228e53edd8688efce85379814c06"
 metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "e3b2dc615d6e4dcc82d7784969a737b8d374d803fe9652682ae9a48c87e2ae10"
+hash = "3a5528334ef74fff9d29cacd6f82a01fffa2b2a961f3cb716e84853ae48a6d61"
 metafile = true
 
 [[files]]
@@ -797,12 +797,12 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "64646bd319a1a93680b016c46454d89ea83b412e30e3c449e1960399a04468ca"
+hash = "160cd7c714f9298e2eba4a63190b5a5f7ce6c8289c3c2d99d6446d152145f817"
 metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "3e13948efc862367014e3fe4b7f3f21b0353af87e4d018dead3362d1b8d49477"
+hash = "32fcbd58084fe4da509d39afa14795cc5324dba6cd4ac110409eee8c1b34b905"
 metafile = true
 
 [[files]]
@@ -827,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-moogs-temples-reimagined.pw.toml"
-hash = "b7d2538e280bf4f16c4a737722880a1adbdc345b1d9fe4b38fff9cfc34b55cac"
+hash = "23bf9dc1c8fab4d2d908c45aad7006c97a26152d46fbb8bb9bcfb82a418c9b47"
 metafile = true
 
 [[files]]
@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "537bdd1937193d94cf47f2232e2b38357415e5af8c950d97661b3ae881adbb4e"
+hash = "df0cff9c408c4320941eaedfd472fc98c516ba57012009cd895adc816732d00a"
 metafile = true
 
 [[files]]
@@ -937,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/persistent-parrots.pw.toml"
-hash = "812a77feb8f4af7f166178efd63e678db44a8010082c04dbfd56a8c7cf8c502a"
+hash = "dfb13794f85166c1191029706519e6a2fb75b4d3427cba6a7855e6e348342721"
 metafile = true
 
 [[files]]
@@ -1037,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
-hash = "5c2f6a415937be5e8d362bd5bf7565b5f16339c0bbaf71114b6b4bf3de9ced15"
+hash = "e894e817d65ff2d460f9001672a3254f71a0810a55254d929535264d4c8bd663"
 metafile = true
 
 [[files]]
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/smelting-sand-in-blast-furnace.pw.toml"
-hash = "a9d079d6dc8fece7a8f2a59592426f804ae3fdaebecccb80ebab9ea719bf10aa"
+hash = "435842b4f81ed58e140c3b31a6ddadaa8f8765184f255a43d69719377350f41f"
 metafile = true
 
 [[files]]
@@ -1152,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparsestructures.pw.toml"
-hash = "510290c5af225092f5b1de78cfc6df4062bf4027db45676e48d7458b37953837"
+hash = "506246e7ecce891c570fa976dec8128ee93a23cfefafa7564bf56e00aa06a887"
 metafile = true
 
 [[files]]
@@ -1177,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/superflat-world-no-slimes.pw.toml"
-hash = "e86ed5ff343c6a72f9c12086270eefe1fe08d0e859b010fc6120aebfd5d7a672"
+hash = "ba52b5fe783f37bcd90f66e693e9df6a7f1b8c06b7f02027caf806a9ee46ccb5"
 metafile = true
 
 [[files]]
@@ -1222,7 +1222,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-mobs.pw.toml"
-hash = "61fcb6ecb2a126f797d334398a9ed41410d22a8aa1390571c174c9811f8075b2"
+hash = "8dc5a828dc55535f616403476247b5b20d2b654375ec7cfe6f36ae46b1a4586f"
 metafile = true
 
 [[files]]
@@ -1292,7 +1292,7 @@ metafile = true
 
 [[files]]
 file = "mods/wits.pw.toml"
-hash = "e7a630e261c40242ea52b16c9b120b8c9d4b0d0339bd6f097f63828e21dd082c"
+hash = "303de672b5f3e154b56304910739f64747f289a938a3332f1ff0191bcc9d309a"
 metafile = true
 
 [[files]]

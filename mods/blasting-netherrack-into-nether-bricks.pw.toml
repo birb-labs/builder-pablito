@@ -1,13 +1,12 @@
 name = "Blasting Netherrack into Nether Bricks"
+side = "both"
 filename = "netherrackblasting-1.21.1-0-fabric.jar"
-side = "server"
 
-[download]
-url = "https://cdn.modrinth.com/data/Gc8Csran/versions/H2Sxx3FV/netherrackblasting-1.21.1-0-fabric.jar"
-hash-format = "sha512"
-hash = "ddbfd7d6dd55b0b05b6fdf8d52b768624995f97d6b58b5580db392473ef5ec9a75b909a6e7aa9f50807d6cb5efae238f9d27db53be7ea4680ed83b8e9a306e39"
-
-[update]
 [update.modrinth]
 mod-id = "Gc8Csran"
 version = "H2Sxx3FV"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/Gc8Csran/versions/H2Sxx3FV/netherrackblasting-1.21.1-0-fabric.jar"
+hash = "ddbfd7d6dd55b0b05b6fdf8d52b768624995f97d6b58b5580db392473ef5ec9a75b909a6e7aa9f50807d6cb5efae238f9d27db53be7ea4680ed83b8e9a306e39"
