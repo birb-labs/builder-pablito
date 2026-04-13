@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+hash = "6c74606e0365395dad900969404d20c6a2bda088f5d667f3f478e18866c400f5"
 metafile = true
 
 [[files]]
@@ -253,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/companion.pw.toml"
 hash = "ea3e3efd42c185191a1970143e71c918efc5da853df6ba1f1cc916309ed60bba"
-metafile = true
-
-[[files]]
-file = "mods/connected-glass.pw.toml"
-hash = "8d1340abed5132384623f395abe4485bdfccc515008c204f85a4205c81755ff5"
 metafile = true
 
 [[files]]
@@ -282,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "e80bc4313349f61ba5ca3c166581cbd7116a6367a9e9e02916bcee4874875aa9"
+hash = "e1d60b080304529caad5aa64a86e466ecfa3be33846fd7092e78df4a1e98c7b9"
 metafile = true
 
 [[files]]
@@ -422,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "63df182532913eea2627f6486a7ea292f55ddf27dba55a4bc25911f32d30dce5"
+hash = "44b098ffab2f728d5a50f33aee186c89a15b120aaa4be327c729f491ef90379e"
 metafile = true
 
 [[files]]
@@ -432,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
-hash = "9642962bbcc8bfd0fc299df9858ba7e9ff8d25a6d69a6df976577d9cb219f442"
+hash = "def0429c61fc8e6b8f4cc3a8f61d491c99b7682d34be008f213659e0982a74db"
 metafile = true
 
 [[files]]
@@ -452,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "bf1bcfbf0bd7cc51c5847a0ad08934cba8abb78c80274ef88f79c5fc97d8dde6"
+hash = "b32d3910b3e0e4e29826af60ba4b4b22087c8e10a710595b7b5fa68263e1471d"
 metafile = true
 
 [[files]]
@@ -467,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairy-lights-fabric.pw.toml"
-hash = "4f0c9648395c804e43b83354074ad0bfd56dad7ebbd18177f437a63287b0fa6c"
+hash = "50c0808ba2165ead3974fe75c0482f11ed302d5bf232ea7eb916ffd336d72aa7"
 metafile = true
 
 [[files]]
@@ -807,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "e866060c2e419aa80b68e2e966daf31393fb8b9c810a66b60039c0a65fcf885e"
+hash = "bbf4dcf6a8bed3ab58e2f6632b1f1094216932e905c82451265f82126ccbc611"
 metafile = true
 
 [[files]]
@@ -837,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
+hash = "22ca1b774bd7f8e29a672455d8aedc1c4929c79c365cb18116173643cf22e183"
 metafile = true
 
 [[files]]
@@ -882,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "734d064d94f184b42c5c9fe8c9a4dc01a5a54ce9c9a7865d974aa0ac809d04b8"
+hash = "ea277b3cce7bf89989ae8d0ad8c4e0dc0c286ee6ea2e23b67a8f8b0a242a988d"
 metafile = true
 
 [[files]]
@@ -897,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "141069d1124d82b492272f96c057e02564bd9f8318904bc4d5181389c4452a46"
+hash = "1f91b689dff908993af54e44df8fc1d3d576a4588316a01fdbcffa1abd8b2001"
 metafile = true
 
 [[files]]
@@ -1192,7 +1187,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "76403fc7551ce0f8f4f4809abaee391464c87f2c49b95b9012f91d29af259586"
+hash = "5da427b36361a467f4d5292e6c2149e3970633634d50ccd92ed2d03efacd3243"
 metafile = true
 
 [[files]]
@@ -1277,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "5ac6353de3520ff5e291a509de1b33dbf0f4f2d1af8e19055754e2aaa86215cf"
+hash = "f4817b21d22ce440b3b72ee4af85daf0d4c73ff70508d615a710a0fa4d4cc3cb"
 metafile = true
 
 [[files]]
